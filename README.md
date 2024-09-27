@@ -31,5 +31,8 @@ The Expense Tracker is a React-based web application designed to help users mana
 ## Run
 
 1. write the repository path on terminal
-   npm i for install dependency
+
+```bash
+   npm i
    npm start
+```
